@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace ImitatorWorking_1
 {
-  class Program
+  class TestingClass
   {
-    static void Main(string[] args)
-    {
-      for (int i = 0; i < 20; i++)
-      { }
-      Console.WriteLine("Rtololololo");
-    }
   }
 }

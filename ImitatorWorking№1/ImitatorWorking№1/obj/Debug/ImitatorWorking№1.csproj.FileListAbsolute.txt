@@ -1,2 +1,7 @@
 D:\TestProject\ImitatorWorking№1\ImitatorWorking№1\bin\Debug\ImitatorWorking№1.exe.config
 D:\TestProject\ImulatorWorking\ImitatorWorking№1\ImitatorWorking№1\bin\Debug\ImitatorWorking№1.exe.config
+D:\TestProject\ImulatorWorking\ImitatorWorking№1\ImitatorWorking№1\bin\Debug\ImitatorWorking№1.exe
+D:\TestProject\ImulatorWorking\ImitatorWorking№1\ImitatorWorking№1\bin\Debug\ImitatorWorking№1.pdb
+D:\TestProject\ImulatorWorking\ImitatorWorking№1\ImitatorWorking№1\obj\Debug\ImitatorWorking№1.csprojResolveAssemblyReference.cache
+D:\TestProject\ImulatorWorking\ImitatorWorking№1\ImitatorWorking№1\obj\Debug\ImitatorWorking№1.exe
+D:\TestProject\ImulatorWorking\ImitatorWorking№1\ImitatorWorking№1\obj\Debug\ImitatorWorking№1.pdb
