@@ -10,6 +10,7 @@ namespace ImitatorWorking_1
   {
     static void Main(string[] args)
     {
+      Console.WriteLine("Rtololololo");
     }
   }
 }
