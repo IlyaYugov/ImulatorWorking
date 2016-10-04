@@ -8,5 +8,6 @@ namespace ImitatorWorking_1
 {
   class TestingClass
   {
+    private static int t;
   }
 }
